@@ -1,0 +1,10 @@
+{
+  "name": "elsehrawy-coin",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
